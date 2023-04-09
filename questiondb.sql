@@ -1,2 +1,0 @@
-EXPLAIN questions
-
